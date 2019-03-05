@@ -34,3 +34,6 @@ coverage
 
 # nyc test coverage
 .nyc_output
+
+# Package vendor composer for PHP
+vendor/
