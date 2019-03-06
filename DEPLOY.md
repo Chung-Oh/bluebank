@@ -1,7 +1,9 @@
-## Nuvem escolhido para esse projeto foi **Heroku**, e os requisitos são:
-- Uma conta no Heroku
-- PHP instalado localmente
-- Composer instalado localmente
+## Trabalhando com 000webhost
+- Para fazer deploy foi utilizado **Filezilla**;
+- Host: files.000webhost.com;
+- Usuário: blue2019prototype;
+- Senha: bluedev;
+- Assim que conectar e a conexão for bem sucedida, selecionar(no Filezilla) aplicação e jogar no provedor;
 
-## Tendo os requisitos necessários é preciso instalar **CLI** do Heroku aqui [Heroku instalar](https://devcenter.heroku.com/articles/getting-started-with-php#set-up).
-
+## Aplicação em **produção** segue link abaixo
+- [bluebank](https://blue2019prototype.000webhostapp.com/);

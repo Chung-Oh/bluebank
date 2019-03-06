@@ -6,7 +6,9 @@
             "email": "danielvchung@hotmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "google/cloud-storage": "^1.11"
+    },
     "autoload": {
     	"psr-4": {
     		"Src\\": "src/"
